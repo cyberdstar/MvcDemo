@@ -12,3 +12,7 @@ Frameworks
 * .NET 4.0
 * ASP.NET MVC 4
 * Entity Framework 5
+
+Visual Studio Extensions
+--
+* Nuget Package Manager 2.0+
