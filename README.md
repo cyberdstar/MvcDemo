@@ -1,7 +1,7 @@
 MvcDemo
 ==
 
-An ASP.NET MVC demo using Entity Framework 5.
+An ASP.NET MVC demo using MVC4 and Entity Framework 5.
 
 Requirements
 --
