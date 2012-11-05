@@ -180,6 +180,7 @@
     <Content Include="Views\Contact\Create.cshtml" />
     <Content Include="Views\Contact\Edit.cshtml" />
     <Content Include="Views\Contact\Delete.cshtml" />
+    <Content Include="Views\Home\Git.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
